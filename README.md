@@ -1,4 +1,4 @@
-# Spotify-Practice-Aagin-
+# Spotify-Practice-Again-
 we are using vite here so we started with npm create vite@latest
 2- and then we made the src folder and copy the reqired folders there and we made the file names as vite.config.js to add the vite config there and add the src: root in its last part.
 3-also added this   "start": "vite --port 3000 --open --host" in the config
